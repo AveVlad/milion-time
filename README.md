@@ -1,4 +1,4 @@
-sqaps
+milion-time
 ==
 
 > Gulp + Ect.js + Sass (Compass) + CoffeeScript + AutoReload + Bower
